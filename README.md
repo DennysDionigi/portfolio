@@ -423,7 +423,6 @@ The project can be deployed to:
 3. **Configure environment**: Set up any required environment variables
 4. **Deploy**: Follow platform-specific deployment instructions
 
-Need help with deployment? Contact us at [hello@pixel71.com](mailto:hello@pixel71.com)
 
 ## 🔍 Browser Support
 
@@ -433,25 +432,6 @@ Need help with deployment? Contact us at [hello@pixel71.com](mailto:hello@pixel7
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 📖 Documentation
 
-- [Development Guide](./DEVELOPMENT.md) - Detailed development workflow
-- [Component Documentation](https://nextsaas-documentation.vercel.app/nextjs/get-started) - Usage guide
-
-## 📧 Support & Contact
-
-We provide comprehensive support for all our customers:
-
-- **Email Support**: [hello@pixel71.com](mailto:hello@pixel71.com)
-- **Response Time**: Within 24 hours on business days
-- **Support Includes**:
-  - Installation assistance
-  - Bug fixes and troubleshooting
-  - Customization guidance
-  - Feature clarifications
-
----
-
-**Made by [Pixel71](mailto:hello@pixel71.com)**
 
 \_Happy coding!
